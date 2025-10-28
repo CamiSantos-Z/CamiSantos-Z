@@ -1,5 +1,7 @@
 ## Olá, sou a Camilli Dos Santos 👋
 
-- 🌱 Estou fazendo faculdade de ciência da computação no momento
-- 💬 Contate.me: camilli.santos2015@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 👋 Olá, sou Camilli dos Santos.
+- 💻 Estudante de Ciência da Computação, em constante desenvolvimento técnico e intelectual.
+- 🔍 Interesso-me por engenharia de software, boas práticas de código e soluções eficientes.
+- 🚀 Tenho foco em desenvolvimento web e aprimoramento de habilidades em programação.
+- 📫 Contato profissional: camilli.santos2015@gmail.com
